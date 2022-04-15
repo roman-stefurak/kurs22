@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "DataSource=desktop_games.db" Microsoft.EntityFrameworkCore.Sqlite -Project BookShop.Core -StartupProject BookShop.Generator -OutputDir Models -ContextDir Models\Context -Context EnterpriseContext
